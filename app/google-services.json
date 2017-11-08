@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "470175621177",
+    "firebase_url": "https://pushtest-4b157.firebaseio.com",
+    "project_id": "pushtest-4b157",
+    "storage_bucket": "pushtest-4b157.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470175621177:android:ef8f73c94289b1a3",
+        "android_client_info": {
+          "package_name": "com.chi.nikita.pushtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470175621177-a568j9v9ibg1hsmmkq008dkh3jqho39q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNmCP_CHgZhysbR6QJ8J1ZdVCWWTHB24U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
